@@ -83,7 +83,7 @@ Utilisez Anaconda ou installez `dlib` à partir de roues précompilées pour év
 
 ### 4. Traduction automatique
 
-- ⚠️ **Problème** : Le module `googletrans` n'est pas toujours fiable pour la traduction de noms propres (ex : "Fatine", "Mouad", etc.).
+- ⚠️ **Problème** : Le module `googletrans` n'est pas toujours fiable pour la traduction de noms propres (ex : "Fatine", "Falima", etc.).
 - ✅ **Solution** : Limitation de l'utilisation de `googletrans` pour les traductions de noms propres.
 
 ## 💪 Conclusion
@@ -94,7 +94,5 @@ Ce projet propose une solution simple, pratique et inclusive pour l'identificati
 - Différents contextes professionnels
 - Divers cas d'utilisation (sécurité, éducation, entreprises)
 
----
 
-Pour toute question ou amélioration, n'hésitez pas à ouvrir une *issue* ou soumettre une *pull request* !
 
