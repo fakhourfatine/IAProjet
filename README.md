@@ -37,3 +37,9 @@ pip install playsound
 pip install googletrans==4.0.0-rc1
 
 
+
+💡 Conseil d'installation :
+face_recognition dépend de dlib, qui peut poser problème sur Windows.
+✔️ Utilisez Anaconda ou des roues précompilées (whl) pour une installation facilitée.
+
+
